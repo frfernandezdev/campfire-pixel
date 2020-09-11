@@ -1,3 +1,8 @@
+/* 
+ * by @frfernandez 
+ * https://github.com/frfernandezdev/hexagon-illusion
+ * 
+ */ 
 const particles = Array(365);
 const matrixEdge = [
 	[[-10, 10], 75],
